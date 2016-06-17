@@ -2,7 +2,7 @@
 public class InsertionSort {
 
 	public static void main(String[] args) {
-		// BubbleSort Sort
+		// Insertion  Sort
 		int arr[] = { 7, 8, 3, 1, 20, 4 };
 		applyInsertionSort(arr);
 		printOutput(arr);
